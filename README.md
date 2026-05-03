@@ -69,6 +69,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTE.md) first
 ## DevOps Tools
 *Tools for testing and dependencies.*
 
+* [agenttrace](https://github.com/luoyuctl/agenttrace) - Local TUI for inspecting AI coding-agent session logs, token/cost usage, tool failures, latency, diffs, and CI gates.
 * [aptly](https://github.com/smira/aptly) - aptly is a Debian repository management tool
 * [awsenv](https://github.com/soniah/awsenv) - a small binary that loads Amazon (AWS) environment variables for a profile
 * [Boom](https://github.com/rakyll/boom) - Boom is a tiny program that sends some load to a web application.
